@@ -1,17 +1,5 @@
 
-```
-todo-app
-├─ 📁models
-│  ├─ 📄Counter.js
-│  └─ 📄Task.js
-├─ 📁node_modules
-├─ 📁routes
-│  └─ 📄tasks.js
-├─ 📄.gitignore
-├─ 📄package-lock.json
-├─ 📄package.json
-└─ 📄server.js
-```
+#TODO-List App Using Full-Stack MEAN
 ```
 todo-app-backend
 ├─ 📁models
